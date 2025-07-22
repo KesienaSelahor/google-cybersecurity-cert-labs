@@ -1,0 +1,13 @@
+# Basic Linux Commands Practiced
+
+pwd             # Print current directory
+ls -l           # List files in long format
+cd /path/       # Change directory
+mkdir folder    # Create new folder
+touch file.txt  # Create empty file
+rm file.txt     # Delete a file
+cp file1 file2  # Copy file1 to file2
+mv old new      # Rename or move a file
+chmod 755 file  # Change file permissions
+cat file.txt    # View file content
+grep "word" file.txt   # Search for word in file
