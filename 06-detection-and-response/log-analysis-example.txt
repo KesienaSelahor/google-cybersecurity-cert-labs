@@ -1,0 +1,10 @@
+# Example of Log File Analysis
+
+Log Sample:
+Jul 14 10:04:23 server1 sshd[3945]: Failed password for invalid user admin from 192.168.0.24 port 55455
+
+Analysis:
+- Suspicious IP with multiple failed login attempts
+- Time: 10:04:23
+- Source: 192.168.0.24
+- Action: Block IP, notify admin, log further attempts
