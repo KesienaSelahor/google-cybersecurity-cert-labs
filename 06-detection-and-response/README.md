@@ -1,39 +1,13 @@
-# 🚨 Detection and Response – Log Analysis & SIEM
+# 🔍 Detection and Response
 
-This folder includes practical exercises and notes from **Course 6** of the Google Cybersecurity Certificate. It focuses on threat detection, incident response, and working with logs using SIEM principles.
+This folder contains practice exercises from Course 6 of the Google Cybersecurity Certificate. Focus areas include log analysis, incident response planning, and SIEM simulations.
 
----
+## 🧠 Key Skills
+- Analyzing SSH and web server logs
+- Responding to security incidents
+- Using SIEM tools for correlation and investigation
 
-## ✅ What I Practiced
-
-### 🔹 Key Concepts
-- Incident Response Lifecycle (Preparation, Detection, Containment, Recovery)
-- Security Information and Event Management (SIEM)
-- Indicators of Compromise (IoCs)
-- Analyzing and responding to log file alerts
-
-### 🔹 Hands-On Activities
-- Simulated alert triage and log investigation
-- Identifying suspicious login behavior
-- Recognizing failed login attempts and brute force signs
-
----
-
-## 🗂 Files in This Folder
-| File Name | Description |
-|-----------|-------------|
-| `siem-log-analysis.md` | Sample walkthrough of a log investigation |
-| `event_log_sample.txt` | Mock log file used in analysis |
-| `incident-response-checklist.md` | Framework for handling and documenting an incident |
-| `README.md` | This file describing the lab and concepts |
-
----
-
-## 🧠 Reflections
-This course helped me understand how even small clues in log data can point to potential attacks. It made me appreciate the importance of timely response and precise documentation during an incident.
-
----
-
-## 🔧 Tools Used
-- Sample logs (via Coursera simulated lab)
-- Basic SIEM concepts
+## 📄 Included Files
+- `log-analysis-example.txt` – Sample event and analysis
+- `incident-response-plan.md` – Response documentation template
+- `siem-simulation-notes.md` – Notes from SIEM lab
