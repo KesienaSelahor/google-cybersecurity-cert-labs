@@ -16,10 +16,10 @@
 ## Screenshots
 
 - **VirtualBox Manager**
-  ![VirtualBox Manager](../assets/day-01-vbox-manager.png)
+  ![VirtualBox Manager](../assets/day-01-vbox-manager.png.png)
 
 - **Kali Desktop**
-  ![Kali Desktop](../assets/day-01-kali-desktop.png)
+  ![Kali Desktop](../assets/day-01-kali-desktop.png.png)
 
 - **Baseline Snapshot**
-  ![Snapshot Baseline](../assets/day-01-snapshot.png)
+  ![Snapshot Baseline](../assets/day-01-snapshot.png.png)
