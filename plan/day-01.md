@@ -12,3 +12,14 @@
 
 ## Next Step
 - Begin practicing Linux basics (navigation, file handling, permissions).
+
+## Screenshots
+
+- **VirtualBox Manager**
+  ![VirtualBox Manager](../assets/day-01-vbox-manager.png)
+
+- **Kali Desktop**
+  ![Kali Desktop](../assets/day-01-kali-desktop.png)
+
+- **Baseline Snapshot**
+  ![Snapshot Baseline](../assets/day-01-snapshot.png)
