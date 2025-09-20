@@ -1,0 +1,16 @@
+# Day 2 – Linux Commands Practice
+
+Today I practiced 5 beginner Linux commands in Kali Linux using Oracle VirtualBox.  
+Below are the commands, their purpose, and screenshots of execution.
+
+## Commands
+- `pwd` → Print working directory
+- `ls` → List files/folders
+- `cd` → Change directory
+- `mkdir` → Create directory
+- `touch` → Create file
+
+## Screenshots
+![pwd output](../assets/day2_pwd.png)  
+![ls output](../assets/day2_ls.png)  
+...
