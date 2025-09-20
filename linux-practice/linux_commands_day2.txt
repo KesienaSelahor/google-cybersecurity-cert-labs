@@ -1,0 +1,13 @@
+# linux-practice/linux_commands_day2.txt
+# Day 02 — Linux basics
+
+Commands run:
+1) ls -la
+2) pwd
+3) mkdir -p ~/linux-practice && cd ~/linux-practice
+4) nano test.txt   (saved text: Hello from Day 2)
+5) chmod 644 test.txt
+
+Notes:
+- All commands were run inside Kali terminal.
+- test.txt contains: Hello from Day 2
