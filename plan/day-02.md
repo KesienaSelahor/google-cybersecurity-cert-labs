@@ -12,4 +12,4 @@
 
 ## Screenshots
 ![Terminal session](../assets/day-02-terminal.png)
-![test.txt verification](../assets/day-02-testfile.png)
+![test.txt verification](../assets/day-02-file.png)
