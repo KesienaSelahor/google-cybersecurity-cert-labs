@@ -1,0 +1,22 @@
+┌──(kali㉿kali)-[~/linux-practice]
+└─$ whoami
+kali
+                                                                                                                                                                                                                                           
+┌──(kali㉿kali)-[~/linux-practice]
+└─$ id
+uid=1000(kali) gid=1000(kali) groups=1000(kali),4(adm),20(dialout),24(cdrom),25(floppy),27(sudo),29(audio),30(dip),44(video),46(plugdev),100(users),101(netdev),103(scanner),107(bluetooth),125(lpadmin),133(wireshark),135(kaboxer),136(vboxsf)
+                                                                                                                                                                                                                                           
+┌──(kali㉿kali)-[~/linux-practice]
+└─$ uname -r
+6.12.25-amd64
+                                                                                                                                                                                                                                           
+┌──(kali㉿kali)-[~/linux-practice]
+└─$ file test.txt 
+test.txt: ASCII text
+                                                                                                                                                                                                                                           
+┌──(kali㉿kali)-[~/linux-practice]
+└─$ grep "hello" test.txt
+                                                                                                                                                                                                                                           
+┌──(kali㉿kali)-[~/linux-practice]
+└─$ grep "Hello" test.txt
+Hello from Day 2
